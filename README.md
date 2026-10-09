@@ -14,15 +14,15 @@
       <td>
         <br>
         <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00a740ff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<3+Welcome+to+my+profile" alt="Typing   "/>
+          <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00a740ff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile+<3" alt="Typing"/>
           <br>
-          <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=khalid-xzy&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Stats"/>
+          <img width="300" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=khalid-xzy&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Stats"/>
         </p>
       </td>
       <td>
-        <img alt="Code GIF" src="assets/images/panda.gif" style="max-width: 300px; border-radius: 10px;">
+        <img alt="Code GIF" src="assets/images/avatar.png" style="max-width: 300px; border-radius: 10px;">
       </td>
     </tr>
   </table>
 
-<p align="center"><img src="assets/images/line.png" width="100%"></p>
+<p align="center"><img src="assets/images/footer.png" width="100%"></p>
