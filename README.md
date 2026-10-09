@@ -20,7 +20,7 @@
         </p>
       </td>
       <td>
-        <img alt="Code GIF" src="assets/images/avatar.png" style="max-width: 300px; border-radius: 10px;">
+        <img src="assets/images/avatar.png" width="100%">
       </td>
     </tr>
   </table>
