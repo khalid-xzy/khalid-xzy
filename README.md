@@ -20,7 +20,7 @@
         </p>
       </td>
       <td>
-        <img src="assets/images/avatar.webp" width="100%">
+        <img alt="Code WEBP" src="assets/images/avatar.webp" style="max-width: 300px; border-radius: 10px;">
       </td>
     </tr>
   </table>
