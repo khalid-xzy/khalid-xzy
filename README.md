@@ -18,10 +18,6 @@
           <br>
           <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=khalid-xzy&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Stats"/>
         </p>
-      </td>
-      <td>
-        <img alt="Code WEBP" src="assets/images/avatar.webp" style="max-width: 300px; border-radius: 10px;">
-      </td>
     </tr>
   </table>
 
