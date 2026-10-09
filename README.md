@@ -25,4 +25,4 @@
     </tr>
   </table>
 
-<p align="center"><img src="assets/images/footer.png" width="100%"></p>
+<p align="center"><img src="assets/images/footer.jpg" width="100%"></p>
