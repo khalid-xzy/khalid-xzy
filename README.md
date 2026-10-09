@@ -20,7 +20,7 @@
         </p>
       </td>
       <td>
-        <img src="assets/images/avatar.png" width="100%">
+        <img src="assets/images/avatar.webp" width="100%">
       </td>
     </tr>
   </table>
