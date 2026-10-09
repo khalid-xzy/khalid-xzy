@@ -15,6 +15,9 @@
         <br>
         <p align="center">
           <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00a740ff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile+<3" alt="Typing"/>
+          <br>
+          <img width="150" align="center" src="https://komarev.com/ghpvc/?username=itskonv1&label=Profile%20Visitor&color=00a740ff&style=for-the-badge" alt="Profile Visitor Counter"/>
+          <br>
         </p>
       </td>
       <td>
