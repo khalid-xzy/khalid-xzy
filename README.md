@@ -13,3 +13,4 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=khalid-xzy&data=followers,repositories,stars,commits&theme=viridescent" /></a>
 <h2></h2>
 <p align="center"><img src="assets/images/footer.jpg" width="100%"></p>
+<h2></h2>
